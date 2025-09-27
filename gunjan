@@ -1,0 +1,4 @@
+rows = 5  # you can change this number for bigger or smaller patterns
+
+for i in range(1, rows + 1):
+    print("*" * i)
